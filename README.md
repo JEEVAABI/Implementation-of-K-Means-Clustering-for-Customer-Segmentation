@@ -58,9 +58,9 @@ plt.title("Customer Segments")
 ## Output:
 ### Data Head
 ![output1](head.png)
-### Data Informaton
+### Data Information
 ![outpot2](info.png)
-### Null datas
+### Null data
 ![output3](null.png)
 
 ### Plot - Elbow Method:
